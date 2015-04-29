@@ -475,8 +475,13 @@ header.fixed_hiding.scrolled .header_top {
 
 
 
+        .product-category .after-title-spearator {
+            background-color: #dddddd;margin-top: 10pxpx;height: 3pxpx        }
+    
 
-
+    .woocommerce-page ul.products li.product a.product-category.product-info,
+    .woocommerce ul.products li.product a.product-category.product-info {
+        background-color: #ffffff    }
 
 
 
